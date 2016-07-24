@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Flow Five Team Sk8Skins]]></title>
         <description><![CDATA[Flow Five Team Sk8Skins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flow-five-team-sk8skins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 05:18:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 06:02:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flow-five-team-sk8skins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefined4a32a1fe-909b-46d0-b7a5-6d3301596efb/index.html</link>
+            <title><![CDATA[Team Sk8Skins ]]></title>
+            <description><![CDATA[<article><h1>Team Sk8Skins </h1><p>Call for resumes</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/067315b0-5989-457c-a29d-291fbdd62a0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/flow-five-team-sk8skins/4a32a1fe-909b-46d0-b7a5-6d3301596efb/index.html</link>
             <guid isPermaLink="false">4a32a1fe-909b-46d0-b7a5-6d3301596efb</guid>
-            <pubDate>Sun, 24 Jul 2016 05:18:01 GMT</pubDate>
+            <pubDate>Sun, 24 Jul 2016 06:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
