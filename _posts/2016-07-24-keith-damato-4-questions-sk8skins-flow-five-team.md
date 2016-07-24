@@ -1,8 +1,9 @@
 ---
-dateModified: '2016-07-24T06:08:55.586Z'
-description: Uploaded by Sk8Skins on 2016-07-24.
-inLanguage: en
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'https://youtu.be/-mOt2zJp8YY'
+inLanguage: en
 keywords:
   - comic-con
   - melania
@@ -14,20 +15,20 @@ keywords:
   - rented
   - trailer
   - automatically
-publisher:
-  domain: youtu.be
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  name: YouTube
-  url: 'https://www.youtube.com/'
+description: Uploaded by Sk8Skins on 2016-07-24.
+datePublished: '2016-07-24T07:22:34.329Z'
+dateModified: '2016-07-24T07:22:29.424Z'
 title: Keith D'Amato 4 Questions Sk8Skins Flow Five Team
 author: []
 via: {}
-datePublished: '2016-07-24T06:10:10.062Z'
-starred: false
 sourcePath: _posts/2016-07-24-keith-damato-4-questions-sk8skins-flow-five-team.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
