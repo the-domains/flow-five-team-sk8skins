@@ -1,22 +1,24 @@
 ---
-dateModified: '2016-07-24T06:16:20.257Z'
-description: Uploaded by Sk8Skins on 2016-07-24.
-isBasedOnUrl: 'https://youtu.be/4_R3FIeR6JU'
-keywords: []
-publisher:
-  domain: youtu.be
-  favicon: 'https://www.youtube.com/favicon.ico'
-  name: YouTube
-  url: 'https://www.youtube.com/'
-title: David Elia 4 Questions Sk8Skins Flow Five Team
-author: []
-via: {}
-datePublished: '2016-07-24T06:17:10.441Z'
-starred: false
-sourcePath: _posts/2016-07-24-david-elia-4-questions-sk8skins-flow-five-team.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://youtu.be/4_R3FIeR6JU'
+inLanguage: null
+keywords: []
+description: Uploaded by Sk8Skins on 2016-07-24.
+datePublished: '2016-07-24T07:21:16.538Z'
+dateModified: '2016-07-24T07:21:12.962Z'
+title: David Elia 4 Questions Sk8Skins Flow Five Team
+author: []
+via: {}
+sourcePath: _posts/2016-07-24-david-elia-4-questions-sk8skins-flow-five-team.md
+authors: []
+publisher:
+  name: YouTube
+  domain: youtu.be
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
