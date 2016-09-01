@@ -1,6 +1,6 @@
 name: Flow Five Team Sk8Skins
 favicon: null
-layout_spectrum: 0.6422633081674576
+layout_spectrum: 0.49772
 typography_spectrum: 0.3955
 title: Flow Five Team Sk8Skins
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5625
+  brandStrength: 0.25
   lightness: 0.3125
-  saturation: 0.575170295778662
-  rhythmicContrast: 0.75
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []
